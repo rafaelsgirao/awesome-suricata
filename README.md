@@ -16,7 +16,7 @@
 
 <!-- About this section. Optional. Keep this short and focus on the list. -->
 
-- [EveBox's Rules](https://rules.evebox.org/index)
+- [EveBox's Rulesets](https://rules.evebox.org/index)
 <!-- - [List item](http://example.com) -->
 
 
